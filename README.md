@@ -1,7 +1,7 @@
 
 **Formação**
 
-Graduado em Análise de Sistemas na Faculdade de Ciências Sociais Aplicadas de Penedo
+Graduado em Análise de Sistemas na FCSAP
 Pós-graduado em Banco de Dados pela Estácio-FAL
 Mestrando em Informática - UFAL
 
@@ -11,4 +11,4 @@ Mestrando em Informática - UFAL
 Oracle Certified Associate - OCA11g 
 Oracle 12c Pre Sales Specialist 
 Microsoft Certified IT Professional - MCP 
-Microsoft Certified IT Professional : Microsfot Technology Associate - Database Administration
+Microsoft Certified IT Professional : Technology Associate - Database Administration
