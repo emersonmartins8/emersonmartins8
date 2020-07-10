@@ -12,3 +12,4 @@ Oracle Certified Associate - OCA11g
 Oracle 12c Pre Sales Specialist 
 Microsoft Certified IT Professional - MCP 
 Microsoft Certified IT Professional : Technology Associate - Database Administration
+
