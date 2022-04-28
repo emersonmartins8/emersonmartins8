@@ -3,7 +3,7 @@
 
 Graduado em Análise de Sistemas na FCSAP<br/>
 Pós-graduado em Banco de Dados pela Estácio-FAL<br/>
-Mestrando em Informática - UFAL<br/>
+Mestre em Informática - UFAL<br/>
 
 
 **Certificações**
