@@ -1,10 +1,12 @@
 
 **Formação**
-
-Graduado em Análise de Sistemas na FCSAP<br/>
-Pós-graduado em Banco de Dados pela Estácio-FAL<br/>
-Mestre em Informática - UFAL<br/>
 Doutorando em Ciência da Computação - UFU <br/>
+Mestre em Informática - UFAL<br/>
+Pós-graduado em Banco de Dados pela Estácio-FAL<br/>
+Graduação em Análise de Sistemas na FCSAP<br/>
+
+
+
 
 
 **Certificações**
