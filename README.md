@@ -1,5 +1,6 @@
 
 **Formação**
+
 Doutorando em Ciência da Computação - UFU <br/>
 Mestre em Informática - UFAL<br/>
 Pós-graduado em Banco de Dados pela Estácio-FAL<br/>
